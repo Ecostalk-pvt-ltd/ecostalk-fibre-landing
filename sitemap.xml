@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>__SITE_URL__/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>__SITE_URL__/about.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>__SITE_URL__/process.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>__SITE_URL__/products.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>__SITE_URL__/sustainability.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>__SITE_URL__/infrastructure.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>__SITE_URL__/contact.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>
